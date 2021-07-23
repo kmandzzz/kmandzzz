@@ -1,5 +1,5 @@
 - 👋 Olá! Eu me chamo Amanda (@kmandzzz). Bem vind@ ao meu repositório!
-- 👀 Atualmente me encontro interessada em vagas de estágio para aplicar os fundamentos do que venho aprendendo.
+- 👀 Sou estagiária de Desenvolvimento Front-end.
 - 🌱 Estudo atualmente HTML, CSS, JavaScript e às vezes Java.
 - 📫 Você pode me encontrar no Twitter pelo mesmo nome daqui do Github: @kmandzzz.
 
