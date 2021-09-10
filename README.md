@@ -1,9 +1,44 @@
-- 👋 Olá! Eu me chamo Amanda (@kmandzzz). Bem vind@ ao meu repositório!
-- 👀 Atualmente sou Estagiária | Cybersecurity Awareness na <a href="https://eskive.com">Eskive</a>.
-- 🌱 Estudo atualmente HTML, CSS, JavaScript, PHP e às vezes Java. 
-- 📫 Você pode me encontrar no <a href="https://www.linkedin.com/in/amanda-dias-de-oliveira-154933141/">LinkedIn</a> e entrar em contato por <a href="mailto:amandadeveloperr@gmail.com">E-mail</a>.
+<h2>Hiii!! I'm Amanda Oliveira! Welcome to my github!</h2>
 
-<!---
-kmandzzz/kmandzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<p>I'm a front-end development student who loves technology and love to learning! Do you know about something that I dunno? Share with me! I love to hear about people development experiences.</p>
+
+<ul>
+  <li>Focused on <b>JavaScript</b> stack;
+  <li>Currently learning about <b>PHP</b> stack;</li>
+  <li>I <b>love to talk about:</b> Animes, Mangas, Technology, Music and Astronomy.</li>
+  
+  <br>
+  <br>
+  
+<p><b>Skills I'm interested in developing:</b><br>
+  ViewJS • Cloud Computing • Material UI • Rest APIs • DB
+  
+  <br>
+  <br>
+  
+  ##
+  
+  
+
+<div>
+  <a href="https://github.com/kmandzzz" style="text-decoration:none">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmandzzz&show_icons=true&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmandzzz&layout=compact&langs_count=16&theme=midnight-purple"/>
+  </div>
+  
+  <div style="display: inline-block"><br>
+    <img align="center" alt="kmandzzz-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="kmandzzz-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="kmandzzz-js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  </div>
+
+  ##
+  
+  <div>
+    <a href="https://www.linkedin.com/in/amanda-dias-de-oliveira-154933141/" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+     <a href="mailto:amandadeveloperr@gmail.com" target="_blank"> <img align="center"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </div>
+
+  ![Snake animation](https://github.com/kmandzzz/blob/output/github-contribution-grid-snake.svg)
