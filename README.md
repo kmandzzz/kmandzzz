@@ -5,31 +5,30 @@
 <p>I'm a front-end development student who loves technology and love to learning! Do you know about something that I dunno? Share with me! I love to hear about people development experiences.</p>
 
 <ul>
+  <li>Currently I'm Cybersecurity Awareness intern;
   <li>Focused on <b>JavaScript</b> stack;
-  <li>Currently learning about <b>PHP</b> stack;</li>
+  <li>Currently learning about <b>PHP</b> stack and <b>Cloud Computing</b>;</li>
   <li>I <b>love to talk about:</b> Animes, Mangas, Technology, Music and Astronomy.</li>
+  </u>
   
   <br>
-  <br>
   
-<p><b>Skills I'm interested in developing:</b><br>
-  ViewJS • Cloud Computing • Material UI • Rest APIs • DB
+  <b>Skills I'm interested in developing:</b><br>
+  ViewJS • Material UI • Rest APIs • DB
   
   <br>
   <br>
   
   ##
   
-  
-
 <div>
   <a href="https://github.com/kmandzzz" style="text-decoration:none">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmandzzz&show_icons=true&theme=midnight-purple"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmandzzz&layout=compact&langs_count=16&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmandzzz&show_icons=true&theme=midnight-purple" style="max-width: 100%;"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmandzzz&layout=compact&langs_count=16&theme=midnight-purple" style="max-width: 100%;"/>
   </div>
   
   <div style="display: inline-block"><br>
-    <img align="center" alt="kmandzzz-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="kmandzzz-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
     <img align="center" alt="kmandzzz-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="kmandzzz-js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   </div>
