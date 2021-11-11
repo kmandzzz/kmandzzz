@@ -8,12 +8,14 @@
   <li>Currently I'm <b>Cybersecurity Awareness</b> Intern at <a href="https://eskive.com"><b>Eskive</a></b>;
   <li>Focused on <b>JavaScript</b> stack;
   <li>Currently learning about <b>PHP</b> stack and <b>Cloud Computing</b>;</li>
-  <li>I <b>love to talk about:</b> Animes, Mangas, Technology, Music and Astronomy.</li>
+  <li>I <b>love to talk about:</b> Animes, Mangas, Technology, Music and Astronomy;</li>
+  <li>Pronouns: she/her.</li>
   </u>
   
   <br>
+  <br>
 👩🏽‍💻<b> Skills I'm interested in developing:</b><br>
-  ViewJS • Material UI • Rest APIs • DB
+  ViewJS • Material UI • Rest APIs • DB • Laravel
   
   ##
   
