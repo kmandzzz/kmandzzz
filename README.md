@@ -19,9 +19,9 @@
   
 <div>
   <a href="https://github.com/kmandzzz" style="text-decoration:none">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=kmandzzz&show_icons=true&theme=midnight-purple" style="max-width: 50%;"/></a>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kmandzzz&show_icons=true&theme=midnight-purple" style="max-width: 50%;"/></a>
   <a href="https://github.com/kmandzzz" style="text-decoration:none">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmandzzz&layout=compact&langs_count=16&theme=midnight-purple" style="width: 50%;"/></a>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmandzzz&layout=compact&langs_count=16&theme=midnight-purple" style="width: 50%;"/></a>
   </div>
   
   <div style="display: inline-block"><br>
