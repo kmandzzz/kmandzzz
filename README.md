@@ -8,7 +8,7 @@
   <li>Made in <b>Brazil</b> but living in <b>Portugal</b>;
   <li>Currently I'm <b>Front-end Developer</b> at <a href="https://brandimage.pt"><b>Brandimage+</a></b>;
   <li>Focused on <b>JavaScript</b> stack;
-  <li>Currently improving my CSS skills, learning about <b>PHP</b> stack, <b>Cloud Computing</b> and more;</li>
+  <li>Currently improving my <b>CSS</b> skills, learning about <b>PHP</b> stack, <b>Cloud Computing</b> and more;</li>
   <li>I <b>love to talk about:</b> Animes, Mangas, Technology, Music and Astronomy;</li>
   <li>Pronouns: ella/she/her.</li>
   </u>
