@@ -5,17 +5,17 @@
 <p>I'm a front-end development student who loves technology and love to learning! Do you know about something that I dunno? Share with me! I love to hear about people development experiences.</p>
 
 <ul>
-  <li>Currently I'm <b>Cybersecurity Awareness</b> Intern at <a href="https://eskive.com"><b>Eskive</a></b>;
-  <li>Focused on <b>JavaScript</b> & <b>PHP</b> stack;
+  <li>Currently I'm <b>Front-end Developer</b> at <a href="https://brandimage.pt"><b>Brandimage+</a></b>;
+  <li>Focused on <b>JavaScript</b> stack;
   <li>Currently learning about <b>PHP</b> stack and <b>Cloud Computing</b>;</li>
   <li>I <b>love to talk about:</b> Animes, Mangas, Technology, Music and Astronomy;</li>
-  <li>Pronouns: she/her.</li>
+  <li>Pronouns: ella/she/her.</li>
   </u>
   
   <br>
   <br>
 👩🏽‍💻<b> Skills I'm interested in developing:</b><br>
-  ViewJS • Material UI • Rest APIs • DB • Laravel
+  ViewJS • Material UI • Rest APIs • DB 
   
   ##
   
