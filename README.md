@@ -5,7 +5,8 @@
 <p>I'm a front-end development student who loves technology and love to learning! Do you know about something that I dunno? Share with me! I love to hear about people development experiences.</p>
 
 <ul>
-  <li>Currently I'm <b>Front-end Developer</b> at <a href="https://brandimage.pt"><b>Brandimage+</a></b>🇹;
+  <li>Made in <b>Brazil</b> but living in <b>Portugal</b>;
+  <li>Currently I'm <b>Front-end Developer</b> at <a href="https://brandimage.pt"><b>Brandimage+</a></b>;
   <li>Focused on <b>JavaScript</b> stack;
   <li>Currently improving my CSS skills, learning about <b>PHP</b> stack, <b>Cloud Computing</b> and more;</li>
   <li>I <b>love to talk about:</b> Animes, Mangas, Technology, Music and Astronomy;</li>
