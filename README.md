@@ -8,8 +8,8 @@
   <li>Made in <b>Brazil</b> but living in <b>Portugal</b>;
   <li>Focused on <b>JavaScript</b> stack;
   <li>Currently improving my <b>CSS</b> skills, learning about <b>TypeScript, Angular</b> stack;</li>
-  <li>I <b>love to talk about:</b> Animes, Mangas, Technology, Music and Astronomy;</li>
-  <li>Pronouns: ella/she/her.</li>
+  <li>I <b>love to talk about:</b> Animes, Mangás, Technology, Music and Astronomy;</li>
+  <li>Pronouns: ela/ella/she/her.</li>
   </u>
   
   <br>
@@ -30,6 +30,8 @@
     <img align="center" alt="kmandzzz-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
     <img align="center" alt="kmandzzz-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="kmandzzz-js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img align="center" alt="kmandzzz-ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img align="center" alt="kmandzzz-an" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   </div>
 
   ##
